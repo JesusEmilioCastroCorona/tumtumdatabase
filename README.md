@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Captura de pantalla (13)" src="https://github.com/user-attachments/assets/df45d3fc-73e8-4193-8b9b-cd346f17022d" />
+
 📚 Sistema de Biblioteca en Python + MySQL
 🧾 Descripción del proyecto
 
@@ -132,3 +134,4 @@ Interfaz de texto con menú interactivo
 Jesús Emilio Castro Corona
 📍 Culiacán, Sinaloa
 🗓️ Proyecto académico – 2025
+
