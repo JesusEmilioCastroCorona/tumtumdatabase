@@ -128,10 +128,3 @@ CRUD en base de datos MySQL
 Manejo de conexiones y consultas SQL en Python
 
 Interfaz de texto con menú interactivo
-
-👨‍💻 Autor
-
-Jesús Emilio Castro Corona
-📍 Culiacán, Sinaloa
-🗓️ Proyecto académico – 2025
-
