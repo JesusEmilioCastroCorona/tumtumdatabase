@@ -67,7 +67,6 @@ Se implementa un **menú por terminal** que permite registrar, listar y consulta
 
 ---
 
-## Kevin
 <img width="316" height="252" alt="image" src="https://github.com/user-attachments/assets/1f9222c9-9857-47e5-b730-7fa7d23d3ea9" />
 
 
@@ -158,6 +157,5 @@ El proyecto incluye **5 libros**, **5 usuarios** y **5 préstamos** de ejemplo p
 
 ---
 
-## 📝 Autor
 
 
