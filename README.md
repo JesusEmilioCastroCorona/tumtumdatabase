@@ -1,6 +1,5 @@
 <img width="1920" height="1080" alt="Captura de pantalla (13)" src="https://github.com/user-attachments/assets/df45d3fc-73e8-4193-8b9b-cd346f17022d" />
 
-[README.md](https://github.com/user-attachments/files/22953918/README.md)
 # 📚 Sistema de Biblioteca con Conexión a MySQL
 
 ## ✨ Descripción
@@ -161,4 +160,4 @@ El proyecto incluye **5 libros**, **5 usuarios** y **5 préstamos** de ejemplo p
 
 ## 📝 Autor
 
-Kevin Bonilla
+
